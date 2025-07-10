@@ -47,12 +47,61 @@ $\small\color{rgba(160,191,240)}{\textsf{⭑.ᐟ hi! im bear. i can be kind of a
 <img width="200" height="150" src="https://static.wikia.nocookie.net/deltarune/images/6/6f/Noelle_battle_nurse.gif/revision/latest/smart/width/386/height/259?cb=20211003000644"> $\small\color{rgba(160,191,240)}{\textsf{⭑.ᐟ placeholder text for change commit.}}$<br/> 
 </h3>
 
-![bg left](https://picsum.photos/720?image=29)
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Image + Text Side by Side</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+      gap: 30px;
+      flex-wrap: wrap;
+    }
+    .image {
+      flex: 1;
+      max-width: 400px;
+    }
+    .image img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border: none;
+    }
+    .text {
+      flex: 2;
+    }
+    .text p {
+      margin: 0;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="image">
+      <img src="https://i.pinimg.com/736x/f1/d7/17/f1d717b841ba38fae6c6bb71ba675121.jpg" alt="Descriptive alt text">
+    </div>
+    <div class="text">
+      <p>
+        This is your text! It sits nicely beside the image with no borders, no tables, and no clutter.
+        You can write as much or as little as you'd like here. The layout stays clean and responsive.
+      </p>
+    </div>
+  </div>
 
-# Split backgrounds
-
-The space of a slide content will shrink to the right side.
-
+</body>
+</html>
 
 <p align="center">
 $\color{rgba(255,0,0, 0.4)}{\textsf{  ᯓ★ AUTOMATIC DNI'S ;}}$<br/>
