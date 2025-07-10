@@ -43,9 +43,9 @@ $\small\color{rgba(160,191,240)}{\textsf{⭑.ᐟ hi! im bear. i can be kind of a
   <img width="800" height="500" src="https://64.media.tumblr.com/c8ddb177d023fd1776698d12f42389e3/61852014a512a949-ef/s1280x1920/5c4ac3b1776149c15b1d8cd4f994f0b2fdd301e0.pnj"><br/>
 </p>
 
+<p align="right"> $\small\color{rgba(160,191,240)}{\textsf{⭑.ᐟ placeholder text for change commit.}}$<br/> 
 
-<img width="400" height="900" alt="image" src="https://i.pinimg.com/736x/f1/d7/17/f1d717b841ba38fae6c6bb71ba675121.jpg">
-
+<p align="left"> <img width="300" height="700" alt="image" src="https://i.pinimg.com/736x/f1/d7/17/f1d717b841ba38fae6c6bb71ba675121.jpg"><br/> 
 
 
 
