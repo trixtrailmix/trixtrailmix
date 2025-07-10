@@ -32,19 +32,21 @@
 $\small\color{rgba(160,191,240)}{\textsf{⭑.ᐟ hi! im bear. i can be kind of a douche but im trying to put myself out there.}}$<br/> $\small\color{rgba(160,191,240)}{\textsf{⭑.ᐟ im dry and nervous for a bit but i open up in no time.}}$<br/> $\small\color{rgba(160,191,240)}{\textsf{⭑.ᐟ severly mentally ill at points.. patience is liked.}}$<br/>  
   </p>
 
-<p align="left">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="200" height="150" src="https://64.media.tumblr.com/ba201436f912e7254e8e40c8b3fb9d9f/e1380e216f796dfb-b1/s400x600/ce50e790c979c30665a85352f45ff00c1fc882e3.gifv">
-<p align="left"> <img width="200" height="150" src="https://64.media.tumblr.com/ba201436f912e7254e8e40c8b3fb9d9f/e1380e216f796dfb-b1/s400x600/ce50e790c979c30665a85352f45ff00c1fc882e3.gifv"> </p>
+<p align="left">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" height="50" src="https://64.media.tumblr.com/ba201436f912e7254e8e40c8b3fb9d9f/e1380e216f796dfb-b1/s400x600/ce50e790c979c30665a85352f45ff00c1fc882e3.gifv">
+<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="100" height="50" src="https://64.media.tumblr.com/ba201436f912e7254e8e40c8b3fb9d9f/e1380e216f796dfb-b1/s400x600/ce50e790c979c30665a85352f45ff00c1fc882e3.gifv"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="50" height="100" src=https://static.wikia.nocookie.net/deltarune/images/8/88/Noelle_battle_enter.gif/revision/latest?cb=20211003000603"> </p>
+
+<p align="center">
+	<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/69b3d8b4-aa20-423b-9b31-792bbe0dd6a4" />
+</p>
+
+<p align="center">
+  <img width="800" height="500" src="https://64.media.tumblr.com/c8ddb177d023fd1776698d12f42389e3/61852014a512a949-ef/s1280x1920/5c4ac3b1776149c15b1d8cd4f994f0b2fdd301e0.pnj"><br/>
+</p>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<img width="400" height="900" alt="image" src="https://i.pinimg.com/736x/f1/d7/17/f1d717b841ba38fae6c6bb71ba675121.jpg">
+
+
 
 
 <p align="center">
