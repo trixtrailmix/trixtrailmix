@@ -49,8 +49,20 @@ $\small\color{rgba(160,191,240)}{\textsf{⭑.ᐟ hi! im bear. i can be kind of a
 <br/>
 <br/>
 
-
-
-
+<p align="center">
+<img width=150 height=50 src="https://web-mine.neocities.org/blinkies/still%20in%20my%20jammas.gif">
+<img width=150 height=50 src="https://web-mine.neocities.org/blinkies/puppy%20power.gif">
+	<img width=150 height=50 src="https://web-mine.neocities.org/blinkies/angel%20from%20heaven.gif">
+	<img width=150 height=50 src="https://adriansblinkiecollection.neocities.org/v3.gif">
+ <img width=150 height=50 src="https://adriansblinkiecollection.neocities.org/e72.gif">
+ <img width=150 height=50 src="https://adriansblinkiecollection.neocities.org/e21.gif">
+ <img width=150 height=50 src="https://adriansblinkiecollection.neocities.org/v60.gif">
+ <img width=150 height=50 src="https://adriansblinkiecollection.neocities.org/e5.gif">
+ <img width=150 height=50 src="https://adriansblinkiecollection.neocities.org/v52.gif">
+  <img width=150 height=50 src="https://adriansblinkiecollection.neocities.org/l14.gif">
+ <img width=150 height=50 src="https://adriansblinkiecollection.neocities.org/l8.gif">
+ <img width=150 height=50 src="https://64.media.tumblr.com/1c4f7d242e7a4846bfc7394be85750a9/c471d9702aebf238-8b/s250x400/5edcbe425f487c851d410e0f793d8d3a45488ab6.gifv">
+	
+</p>
 
 
